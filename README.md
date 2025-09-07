@@ -35,13 +35,11 @@ Total Sales, Total Profit, Average Discount, YoY Growth %, etc.
 
 Visual Analysis with Power BI Dashboards
 
-Sales Overview Dashboard:
-
-KPIs: Total Sales, Total Profit, Orders, Avg. Order Value
+*Sales Overview Dashboard:*
 
 Line charts for monthly/yearly trends
 
-Product Performance:
+*Product Performance:*
 
 Bar charts for top-selling categories/sub-categories
 
@@ -49,11 +47,9 @@ Profitability by product type
 
 Customer & Region Analysis:
 
-Map visualizations to show sales by region/country
+Customer Segmentation analysis based on max orders (Consumer, Corporate, Home Office)
 
-Segmentation analysis (Consumer, Corporate, Home Office)
-
-Shipping & Delivery Insights:
+***Shipping & Delivery Insights:***
 
 Shipping mode vs. delivery time
 
@@ -66,3 +62,6 @@ Applied built-in forecasting tools in Power BI's line charts to predict future s
 Set confidence intervals and forecast length (e.g., next 3, 6, or 12 months).
 
 Visualized seasonality and projected demand spikes.
+
+
+![E-commerce_Sales_Prediction   Forcasting_Dashboard_image](https://github.com/user-attachments/assets/f50ce1a5-2471-427d-afb8-1767cfc0365a)
