@@ -16,7 +16,8 @@ Customer Region, Segment
 RTO Return Details
 
 **Key Steps & Methodology:**
-Data Import & Transformation (Power Query)
+
+*Data Import & Transformation (Power Query)*
 
 Cleaned and pre-processed raw data using Power Query Editor.
 
@@ -24,7 +25,7 @@ Handled null values, data type conversions, and created date hierarchies.
 
 Split columns (e.g., year/month from Order Date) for time-based analysis.
 
-Data Modeling
+*Data Modeling*
 
 Created relationships between dimension and fact tables (e.g., Date, Product, Customer).
 
