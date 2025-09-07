@@ -1,7 +1,7 @@
 # E-commerce_Sales_Prediction-Forcasting_Dataset_Analysis_PowerBI
 The objective of this project is to analyze historical e-commerce sales data and create interactive dashboards and visualizations using Power BI to uncover insights, identify trends, and forecast future sales performance. The goal is to enable data-driven decision-making for marketing, inventory, and operations teams.
 
-**Dataset Overview:**
+***Dataset Overview:**
 
 The dataset used includes key attributes such as:
 
@@ -49,13 +49,13 @@ Customer & Region Analysis:
 
 Customer Segmentation analysis based on max orders (Consumer, Corporate, Home Office)
 
-***Shipping & Delivery Insights:***
+*Shipping & Delivery Insights:*
 
 Shipping mode vs. delivery time
 
 Delivery delays impact on profit
 
-Forecasting in Power BI
+*Forecasting in Power BI*
 
 Applied built-in forecasting tools in Power BI's line charts to predict future sales trends.
 
